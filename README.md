@@ -28,6 +28,4 @@ In Terminal (Mac) or GitBash (Windows):
 * Data provided by [The New York Times](https://developer.nytimes.com) and [The Movie Database](https://www.themoviedb.org).
 
 
-![Banner Image](poweredby_nytimes_200a.png)     ![Banner Image](TMDB_logo.svg)
-
 
