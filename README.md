@@ -26,4 +26,8 @@ In Terminal (Mac) or GitBash (Windows):
 ## References
 * The retrieve_movie_data.ipynb starter files wer downloaded from the AI-PT-WEST-MAY-052824_MTTH Module 6 Challenge files and edited to analyze the data.
 * Data provided by [The New York Times](https://developer.nytimes.com) and [The Movie Database](https://www.themoviedb.org).
-![Banner Image](poweredby_nytimes_200a.png)     ![Banner Image](TMDB_logo.png)
+
+
+![Banner Image](poweredby_nytimes_200a.png)     ![Banner Image](TMDB_logo.svg)
+
+
